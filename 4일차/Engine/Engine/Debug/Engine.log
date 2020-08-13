@@ -1,0 +1,6 @@
+﻿  GameScene.cpp
+D:\20405 이채원\GameProgramming\4일차\Engine\Engine\GameScene.cpp(50,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\20405 이채원\GameProgramming\4일차\Engine\Engine\GameScene.cpp(53,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\20405 이채원\GameProgramming\4일차\Engine\Engine\GameScene.cpp(55,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\20405 이채원\GameProgramming\4일차\Engine\Engine\GameScene.cpp(77,21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Engine.vcxproj -> D:\20405 이채원\GameProgramming\4일차\Engine\Debug\Engine.exe
